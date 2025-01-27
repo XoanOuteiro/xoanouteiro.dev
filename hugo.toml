@@ -10,13 +10,13 @@ buildFuture = false
 buildExpired = false
 
 [[menu.main]]
-name = "About Me"
-url = "/about/"
+name = "whoami"
+url = "/whoami/"
 weight = 2
 
 [params.homeInfoParams]
 Title = "Hi there!"
-Content = "Read a post, or check out my GitHub c:"
+Content = "Have a look, read a post, or check out my GitHub c:"
 
 [[params.socialIcons]]
 name = "Github"
