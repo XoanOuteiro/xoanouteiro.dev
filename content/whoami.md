@@ -9,3 +9,4 @@ Hi, I'm XoanOuteiro! I'm a 21yo passionate ethical hacker and Full Stack develop
 
 Currently I'm busy preparing exams, the eJPTv2 cert and learning some more Rust, but soon enough I'll get back to Bug Bounty, where I've been recognized by NASA, the US Department of Defense, Monash University, Stanford University, the USGS and WHO!
 
+![Nasa Letter Of Appreciation to XoanOuteiro](/images/nasa_LOA_XoanOuteiro.png)
