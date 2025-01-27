@@ -1,0 +1,34 @@
+baseURL = "https://xoanouteiro.dev/"
+languageCode = "en-us"
+title = "XoanOuteiro's Cybersec Notes"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[[menu.main]]
+name = "About Me"
+url = "/about/"
+weight = 2
+
+[params.homeInfoParams]
+Title = "Hi there!"
+Content = "Read a post, or check out my GitHub c:"
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/xoanouteiro"
+[[params.socialIcons]]
+name = "Linkedin"
+url = "https://www.linkedin.com/in/xoanouteiro/"
+
+[params.assets]
+favicon = "images/favicon.png"
+favicon16x16 = "images/favicon.png"
+favicon32x32 = "images/favicon.png"
+apple_touch_icon = "images/favicon.png"
+safari_pinned_tab = "images/favicon.png"
+
