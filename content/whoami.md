@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 layout: "page"   # Ensure it's using a "page" layout, not a "post" layout
-url: "/about/"
+url: "/whoami/"
 summary: "A little bit about me"
 draft: false      # Make sure this is false to make it public
 ---
