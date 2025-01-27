@@ -1,7 +1,7 @@
 ---
 title: "First Post"
 date: 2025-01-27T00:00:00+00:00
-tags: ["first", "intro"]
+tags: ["random", "english"]
 author: "XoanOuteiro"
 showToc: true
 TocOpen: false
