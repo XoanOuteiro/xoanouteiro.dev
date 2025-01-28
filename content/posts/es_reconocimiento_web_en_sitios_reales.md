@@ -30,7 +30,7 @@ En cuanto a herramientas, es recomendable emplear aquellas que tomen fuentes dis
  
 Es simple, una buena práctica es mantener siempre los ficheros generados por las herramientas.
 
-Nuestro flujo de trabajo se basará en crear dos listados, uno generado por subfinder, otro por assetfinder, mezclarlos, eliminar duplicados y después quedarnos con los que httpx detecte como activos:
+Nuestro flujo de trabajo se basará en crear dos listados, uno generado por subfinder, otro por assetfinder, mezclarlos, eliminar duplicados y después quedarnos con los subdominios que httpx detecte como activos:
 
 1- Se realiza el escaneo de subfinder, guardando sus resultados. Si se van a realizar más escaneos en un futuro (lo cual es recomendable periodicamente) entonces es una buena idea guardar los escaneos con la fecha y la hora de inicio:
 
@@ -68,7 +68,7 @@ Este proceso se puede abstraer mediante un script de bash.
 
 ## Descubrimiento de endpoints
 
-En este campo, las metodologías activas se emplean principalmente para identificar URLs que se sabe con certeza estaban activas en un momento específico. Sin embargo, este tipo de exploraciones tiende a ser más lento y está frecuentemente condicionado por las implicaciones éticas derivadas de las normativas del contrato bajo el cual se están realizando las pruebas. En otras palabras, herramientas como los crawlers y arañas (por ejemplo, Katana y Hakrawler) deben adherirse a las políticas de cabeceras HTTP y a los límites de solicitudes por segundo establecidos por el cliente.
+En este campo, las metodologías activas se emplean principalmente para identificar URLs que se sabe con certeza estaban activas en un momento específico. Sin embargo, este tipo de exploraciones tienden a ser más lentas y estan frecuentemente condicionadas por las implicaciones éticas derivadas de las normativas del contrato bajo el cual se están realizando las pruebas. En otras palabras, herramientas como los crawlers y arañas (por ejemplo, Katana y Hakrawler) deben adherirse a las políticas de cabeceras HTTP y a los límites de solicitudes por segundo establecidos por el cliente.
 
 Por esta razón, también emplearemos herramientas de recolección de datos a partir de fuentes abiertas, como Waybackurls. Otras herramientas relevantes incluyen Waymore y Gau, aunque no se profundizará en su funcionamiento en este contexto.
 
