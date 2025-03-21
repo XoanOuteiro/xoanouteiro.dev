@@ -1,6 +1,6 @@
 ---
 title: "[ES] Escalada de privilegios en Linux"
-date: 2025-03-29T00:00:00+00:00
+date: 2025-03-21T00:00:00+00:00
 tags: ["hacking","spanish","cybersec","classnotes"]
 author: "XoanOuteiro"
 showToc: true
