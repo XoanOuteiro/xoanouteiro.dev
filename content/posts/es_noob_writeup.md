@@ -1,5 +1,5 @@
 ---
-title: "[ES] Writeup de la Noob"
+title: "[ES] Writeup de la máquina Noob"
 date: 2025-03-28T00:00:00+00:00
 tags: ["hacking","spanish","cybersec","classnotes","writeups"]
 author: "XoanOuteiro"
