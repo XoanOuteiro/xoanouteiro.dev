@@ -10,8 +10,10 @@ buildFuture = false
 buildExpired = false
 
 [[menu.main]]
-name = "whoami"
+name = "Whoami"
 url = "/whoami/"
+name = "Literature"
+url= "/literature/"
 weight = 2
 
 [params.homeInfoParams]
