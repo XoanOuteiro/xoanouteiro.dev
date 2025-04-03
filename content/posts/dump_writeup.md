@@ -187,7 +187,7 @@ Sadly we cant seem to login as admin OR use su OR use sudo -l.
 
 There's nothing on the crontab too.
 
-But heres the thing, this is a Linux machine, and the cred were obviously Windows, so it's fair to expect we wont be able to login as admin.
+But heres the thing, this is a Linux machine, and the creds were obviously Windows, so it's fair to expect we wont be able to login as admin.
 
 ``` bash
 dumper@dump:/$ cat /etc/passwd
