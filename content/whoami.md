@@ -1,10 +1,25 @@
 ---
 title: "About Me"
-layout: "page"   # Ensure it's using a "page" layout, not a "post" layout
+layout: "page"
 url: "/whoami/"
 summary: "A little bit about me"
-draft: false      # Make sure this is false to make it public
+draft: false      
 ---
-Hi, I'm XoanOuteiro! I'm a 21yo passionate ethical hacker and Full Stack developer and I created this blog to share my notes and tutorials.
+Hi, I'm XoanOuteiro! I'm a 21yo passionate Ethical Hacker and Full Stack developer and I created this blog to share my notes,tutorials, small tools & programs.
 
-Currently I'm busy preparing exams, the eJPTv2 cert and learning some more Rust, but soon enough I'll get back to Bug Bounty, where I've been recognized by NASA, the US Department of Defense, Monash University, Stanford University, the USGS and WHO!
+I'm currently busy learning some more Rust, C, Ruby, Go and some other fancy languages for tool and exploit development.
+
+If you care about that stuff, here's some stuff I've done in the past:
+
+Certs:
+- eJPTv2
+- Google Cybersecurity
+
+VDP & BBP Contributions:
+- NASA
+- US Department of Defense
+- US Geological Survey
+- University of Stanford
+- University of Monash
+- World Health Organization
+- Some Spanish social-impact startups thanks to Secur0's platform
