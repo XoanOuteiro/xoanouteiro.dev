@@ -12,6 +12,9 @@ buildExpired = false
 [[menu.main]]
 name = "Whoami"
 url = "/whoami/"
+weight = 1
+
+[[menu.main]]
 name = "Literature"
 url= "/literature/"
 weight = 2
