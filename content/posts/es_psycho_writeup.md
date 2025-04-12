@@ -1,5 +1,5 @@
 ---
-title: "Writeup - Cap HTB"
+title: "[ES] Writeup - Psycho Dockerlabs"
 date: 2025-04-12T00:00:00+00:00
 tags: ["hacking", "spanish","cybersec","writeups","dockerlabs"]
 author: "XoanOuteiro"
