@@ -173,7 +173,7 @@ python3 caliper.py EVAL --url "http://127.0.0.1?input=test" --parameter input --
 
 La ejecución:
 
-![A video of EVAL mode running](/images/eval_run.mp4)
+![Enlace al video](https://drive.google.com/file/d/19r7zqHyNBL-JQfg7dqMc9lVecbMVkH84/view?usp=sharing)
 
 **Nota:** La velocidad está limitada artificialmente a 10 peticiones por segundo. Si se elimina esta restricción, la aplicación podría realizar entre 100 y 800 peticiones por segundo.
 
@@ -300,7 +300,7 @@ input=FUZZ
 
 La ejecución es extremadamente rápida, casi instantánea en este caso:
 
-![A video showing calipers JDI execution in VEC mode](/images/JDI_exec.png)
+![Enlace al video](https://drive.google.com/file/d/1VX0w-f97Fm2Zk7PnRt-O8WYIqbZ1MCsn/view?usp=sharing)
 
 Ahora, analicemos la respuesta:
 
