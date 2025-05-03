@@ -49,9 +49,15 @@ Asimismo, el modo "VEC" cuenta con distintos tipos de vectorización de la petic
 
 - **Random Payload Capitalization (RPC)**: Los payloads que no son sensibles a mayúsculas y minúsculas (como aquellos que explotan vulnerabilidades de SQLi) pueden a veces evadir la detección de WAFs si se capitalizan de manera aleatoria. Este enfoque puede evitar que los WAFs, que dependen de expresiones regulares para detectar patrones, bloqueen el tráfico malicioso.
 
-## Aprende como se implementa y funciona Caliper Suite
+## Arquitectura y códificación Caliper Suite
 
-![Flow Chart Diagram for Caliper Suite](https://www.mermaidchart.com/raw/828c2ec6-3db5-457c-b3f9-c66496e55da5?theme=light&version=v0.1&format=svg)
+![Flow Chart Diagram for Caliper Suite](/images/flowchart.png)
+
+Conocer el funcionamiento de Caliper Suite y sus módulos puede resultar útil si estás interesado en desarrollar una herramienta similar o contribuir al proyecto. Sin embargo, no es estrictamente necesario. 
+
+Si deseas profundizar en el tema, puedes visitar el siguiente enlace:
+
+[Arquitectura y código de Caliper Suite](https://xoanouteiro.dev/posts/es_architecture_and_code_of_caliper)
 
 ## Consideraciones
 
