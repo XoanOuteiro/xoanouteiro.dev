@@ -19,7 +19,7 @@ Esto significa que tanto los pentesters como los administradores de sistemas deb
 
 ## Objetivos
 
-El desarrollo de la herramienta **Caliper** tiene como objetivo ofrecer una forma sencilla de identificar posibles vectores de evasión para un WAF.
+El desarrollo de **Caliper Suite** tiene como objetivo ofrecer una forma sencilla de identificar posibles vectores de evasión para un WAF.
 
 ![A diagram showing attack vectors for firewalls](/images/attack.png)
 
@@ -48,6 +48,10 @@ Asimismo, el modo "VEC" cuenta con distintos tipos de vectorización de la petic
 - **HTTP Verb Swap (HVS)**: Algunos WAFs no evalúan solicitudes que usan el método HTTP PUT, aunque podrían hacerlo si la misma solicitud utilizara el método POST. Este cambio de verbo HTTP puede permitir que una petición pase sin ser detectada.
 
 - **Random Payload Capitalization (RPC)**: Los payloads que no son sensibles a mayúsculas y minúsculas (como aquellos que explotan vulnerabilidades de SQLi) pueden a veces evadir la detección de WAFs si se capitalizan de manera aleatoria. Este enfoque puede evitar que los WAFs, que dependen de expresiones regulares para detectar patrones, bloqueen el tráfico malicioso.
+
+## Aprende como se implementa y funciona Caliper Suite
+
+![Flow Chart Diagram for Caliper Suite](https://www.mermaidchart.com/raw/828c2ec6-3db5-457c-b3f9-c66496e55da5?theme=light&version=v0.1&format=svg)
 
 ## Consideraciones
 
