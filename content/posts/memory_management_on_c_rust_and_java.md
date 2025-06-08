@@ -1,6 +1,6 @@
 ---
 title: "Memory management by the examples of C, Rust and Java"
-date: 2025-06-09T00:00:00+00:00
+date: 2025-06-08T00:00:00+00:00
 tags: ["rust", "c","java","programming","literature"]
 author: "XoanOuteiro"
 showToc: true
