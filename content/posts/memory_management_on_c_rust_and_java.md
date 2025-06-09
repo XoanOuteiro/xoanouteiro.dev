@@ -233,7 +233,7 @@ These types of problems are what programmers refer to when they say that:
 
 Java is a high level "compiled" language (nuanced topic: compiled to bytecode -  https://en.wikipedia.org/wiki/Java_bytecode) 
 
-Being a high-level language, it doesn't allow the user to manually allocate memory, in fact, pointers don't exist in Java, instead all primitive values are passed by reference and objects by value.
+Being a high-level language, it doesn't allow the user to manually allocate memory, in fact, pointers don't exist in Java, instead all primitive values are passed by value and objects by reference.
 
 Despite being hated by a large part of the developer community, it did make the process of Garbage Collection a mainstream way of dealing with heap memory.
 
